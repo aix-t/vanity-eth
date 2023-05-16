@@ -44,3 +44,14 @@ $ pm2 start eth.js -i <processes>
 | prefix    | How many characters to match at the beginning     |
 | suffix    | How many characters to match at the end           |
 | logical   | Whether it should match both prefix and suffix or any one of them |
+
+## Compatibility and Security
+
+Any generated address is compatible with ERC-20, and all data is stored offline locally. Please keep your private key safe and do not give it to anyone.
+
+## Tips
+
+- `0xAaaaaaaaa47d9aE0c579cFA6743C5c978FaD5fC1`
+- `0x66666666661F8D22f67D3C0a987B45bA72dFE3fb`
+- `0x0d27Cd69fd088726c22eDB16ff8d5C8888888888`
+   
